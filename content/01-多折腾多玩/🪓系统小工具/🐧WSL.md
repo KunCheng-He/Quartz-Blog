@@ -61,7 +61,7 @@ sudo pacman -Syy archlinux-keyring
 
 # 2 WSL使用主机魔法
 
-两个脚本，需要时使用 `source` 执行即可
+两个脚本，需要时使用 `source` 执行即可（**目前我的总是不可用，好像WSL的网络和我本地网络是一样的**）
 ```shell
 # ~/.proxy 内容如下
 #!/bin/bash
