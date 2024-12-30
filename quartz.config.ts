@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "😎 KunCheng-He",
+    pageTitle: "🚀 KK ~",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "kk-byack.xyz",
+    ignorePatterns: ["private", "templates", ".obsidian", "00-大杂烩", "05-语音情感识别", "04-读书笔记", "07-软件设计师中级"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
